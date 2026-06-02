@@ -1,17 +1,34 @@
 # Smart Lab
 
-Cybersecurity and digital identity solutions for business and public sector organizations.
+Smart Lab provides cybersecurity and digital identity solutions for businesses and public sector organizations.
 
-## Solutions
-- MFA / 2FA
-- FIDO authentication
+We focus on practical tools that help companies protect access, documents, users, and digital workflows.
+
+## Core areas
+
+- MFA / 2FA implementation
+- FIDO2 authentication
 - Qualified Electronic Signature (QES / КЕП)
 - Secure electronic document workflow
-- Phishing protection
+- Digital identity and phishing-resistant access
 
-## Products
+## Products and solutions
+
 - CybKey
-- FIDO Tokens
-- Electronic Signature Tokens
+- FIDO tokens
+- Electronic signature tokens
+- Smart cards and secure authentication tools
 
-🌐 https://sm4rt-lab.tech
+## What we publish here
+
+This GitHub profile is used for practical guides, checklists, and technical notes related to:
+
+- secure authentication;
+- electronic signatures;
+- digital identity;
+- MFA and FIDO2 adoption;
+- business cybersecurity practices.
+
+## Website
+
+https://sm4rt-lab.tech
