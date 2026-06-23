@@ -1,5 +1,5 @@
 # Smart Lab
-Cybersecurity | MFA | FIDO2 | Electronic Signatures
+Cybersecurity | MFA | FIDO2 | Electronic Signatures.
 Smart Lab provides cybersecurity and digital identity solutions for businesses and public sector organizations.
 
 We focus on practical tools that help companies protect access, documents, users, and digital workflows.
